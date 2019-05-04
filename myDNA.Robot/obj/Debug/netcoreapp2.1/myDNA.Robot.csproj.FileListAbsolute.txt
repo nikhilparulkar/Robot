@@ -1,0 +1,10 @@
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\myDNA.Robot\bin\Debug\netcoreapp2.1\myDNA.Robot.deps.json
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\myDNA.Robot\bin\Debug\netcoreapp2.1\myDNA.Robot.runtimeconfig.json
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\myDNA.Robot\bin\Debug\netcoreapp2.1\myDNA.Robot.runtimeconfig.dev.json
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\myDNA.Robot\bin\Debug\netcoreapp2.1\myDNA.Robot.dll
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\myDNA.Robot\bin\Debug\netcoreapp2.1\myDNA.Robot.pdb
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\myDNA.Robot\obj\Debug\netcoreapp2.1\myDNA.Robot.csproj.CoreCompileInputs.cache
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\myDNA.Robot\obj\Debug\netcoreapp2.1\myDNA.Robot.AssemblyInfoInputs.cache
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\myDNA.Robot\obj\Debug\netcoreapp2.1\myDNA.Robot.AssemblyInfo.cs
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\myDNA.Robot\obj\Debug\netcoreapp2.1\myDNA.Robot.dll
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\myDNA.Robot\obj\Debug\netcoreapp2.1\myDNA.Robot.pdb

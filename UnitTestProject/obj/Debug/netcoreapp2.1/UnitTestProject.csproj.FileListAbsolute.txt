@@ -1,0 +1,17 @@
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.deps.json
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.json
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.dev.json
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.dll
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.pdb
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\bin\Debug\netcoreapp2.1\myDNA.Robot.dll
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\bin\Debug\netcoreapp2.1\myDNA.Robot.pdb
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfoInputs.cache
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfo.cs
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CopyComplete
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.dll
+C:\Users\NIKAL\Desktop\Desktop Files\mvc\myDNA.Robot\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.pdb

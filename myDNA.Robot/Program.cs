@@ -1,4 +1,5 @@
-﻿using myDNA.Robot.Services;
+﻿using myDNA.Robot.Interfaces;
+using myDNA.Robot.Services;
 using System;
 
 namespace myDNA.Robot
@@ -9,7 +10,7 @@ namespace myDNA.Robot
         {
 
             string input = string.Empty;
-            var myHorsePosition = new RobotPositionService();
+            IRobotPosition myHorsePosition = new RobotPositionService();
 
             while (true)
             {
